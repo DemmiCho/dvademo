@@ -11,6 +11,10 @@
   letter-spacing: -1px;
 }
 
+.notul {
+  list-style: none;
+}
+
 .welcome {
   height: 328px;
   background: url(../assets/yay.jpg) no-repeat center 0;
